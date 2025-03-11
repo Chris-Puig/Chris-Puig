@@ -37,7 +37,6 @@ Outside of cybersecurity, I’m into:
 ### 📡 Connect With Me  
 - GitHub: [@Chris-Puig](https://github.com/Chris-Puig)  
 - LinkedIn: [Your LinkedIn](#)  
-- Twitter: [@YourTwitterHandle](#)  
 
 ---
 
