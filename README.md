@@ -36,7 +36,7 @@ Outside of cybersecurity, I’m into:
 ---
 
 ### 📡 Connect With Me    
-- [LinkedIn](https://www.linkedin.com/in/christopher-puig-58b072221)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;&nbsp;<img src="./connect.jpg" alt="Connect With Me" width="300" style="float: right;">
+- [LinkedIn](https://www.linkedin.com/in/christopher-puig-58b072221)
 ---
 
 **👾 Hack, Learn, Repeat 👾**  
