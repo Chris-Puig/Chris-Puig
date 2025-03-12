@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./githubbanner1.jpg" alt="Readme Banner" width="800">
+  <img src="./GithubReadMe.jpg" alt="Readme Banner" width="900">
 </p>
 
 ---
