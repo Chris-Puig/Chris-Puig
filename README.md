@@ -1,3 +1,4 @@
+![github-header-image (1)](https://github.com/user-attachments/assets/b25758d2-0f29-4fd4-8690-253f47704f6e)
 
 ### 🥷 About Me  
 Welcome to my Github! My name is **Chris Puig**, i'm a passionate penetration tester with a deep interest in social engineering, exploit development, and OSINT. I specialize in offensive security, including network penetration testing (external/internal), web application testing, and vulnerability research.  
