@@ -1,9 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="./GithubReadMe.jpg" alt="Readme Banner" width="900">
-</p>
-
----
 
 ### 🥷 About Me  
 Welcome to my Github! My name is **Chris Puig**, i'm a passionate penetration tester with a deep interest in social engineering, exploit development, and OSINT. I specialize in offensive security, including network penetration testing (external/internal), web application testing, and vulnerability research.  
