@@ -10,7 +10,7 @@ When I'm not working on tech, I’m either:
 
 ### 🚀 Projects  
 - **[Vitra 3.0](https://github.com/Chris-Puig/Vitra)** – Automated penetration testing tool
-
+- **[Nova](https://github.com/Chris-Puig/Nova)** – Automated penetration testing tool
 ---
 
 ### 📊 GitHub Stats  
