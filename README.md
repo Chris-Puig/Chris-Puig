@@ -16,7 +16,6 @@ When I'm not working on tech, I’m either:
 ### 📊 GitHub Stats  
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Chris-Puig&show_icons=true&theme=radical" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chris-Puig&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
